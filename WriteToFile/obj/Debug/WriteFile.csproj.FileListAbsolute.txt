@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\WriteFile\bin\Debug\WriteFile.exe.config
+C:\Users\Nolan Pawelski\Desktop\WriteFile\bin\Debug\WriteFile.exe
+C:\Users\Nolan Pawelski\Desktop\WriteFile\bin\Debug\WriteFile.pdb
+C:\Users\Nolan Pawelski\Desktop\WriteFile\obj\Debug\WriteFile.csprojAssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\WriteFile\obj\Debug\WriteFile.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\WriteFile\obj\Debug\WriteFile.exe
+C:\Users\Nolan Pawelski\Desktop\WriteFile\obj\Debug\WriteFile.pdb

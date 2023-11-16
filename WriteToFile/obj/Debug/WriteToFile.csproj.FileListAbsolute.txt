@@ -1,0 +1,7 @@
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_4_WritingToFiles\Programs\WriteToFile\bin\Debug\WriteFile.exe.config
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_4_WritingToFiles\Programs\WriteToFile\bin\Debug\WriteFile.exe
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_4_WritingToFiles\Programs\WriteToFile\bin\Debug\WriteFile.pdb
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_4_WritingToFiles\Programs\WriteToFile\obj\Debug\WriteToFile.csproj.AssemblyReference.cache
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_4_WritingToFiles\Programs\WriteToFile\obj\Debug\WriteToFile.csproj.CoreCompileInputs.cache
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_4_WritingToFiles\Programs\WriteToFile\obj\Debug\WriteFile.exe
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_4_WritingToFiles\Programs\WriteToFile\obj\Debug\WriteFile.pdb
